@@ -1,0 +1,2 @@
+mysqldump -u root -p  SideEffectD1 > SideEffectD1.sql
+
