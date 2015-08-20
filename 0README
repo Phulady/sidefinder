@@ -1,1 +1,5 @@
-SideFinder predicts drug side effects based on drug protein interactions in DSigDB database. It uses machine learning to train for side effects that are obtained from SIDER database. Currently, it predicts side effects for the approved drugs, which will be extended to investigational new drugs. The idea is to be able to predict side effects for new drugs in early stages of drug development when side effects are unknown but drug protein interactions are known through experiments. SiderFinder will use these drug protein interactions to predict the side effects for investigational new drugs.
+SideFinder predicts drug side effects based on drug protein interactions in DSigDB database. 
+It uses machine learning to train for side effects that are obtained from SIDER database. 
+Currently, it predicts side effects for the approved drugs, which will be extended to investigational new drugs. 
+The idea is to be able to predict side effects for new drugs in early stages of drug development when side effects are unknown but drug protein interactions are known through experiments. 
+SiderFinder will use these drug protein interactions to predict the side effects for investigational new drugs.
